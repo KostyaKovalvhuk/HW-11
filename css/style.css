@@ -8,4 +8,5 @@ p   {
     margin-bottom: 30px;
     border-style: dashed; border-color: red;
     background-color: green;
+    box-sizing: border-box;
 }
